@@ -3,4 +3,4 @@
 
 效果图：
 
-![image](https://github.com/Rothschild759613677/CustomFlowLayout/screenshots/flowLayout-1.png)
+![](https://github.com/Rothschild759613677/CustomFlowLayout/screenshots/flowLayout-1.png)
