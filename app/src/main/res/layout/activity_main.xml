@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <com.moonsky.customflowlayout.FlowLayout
+        android:id="@+id/flowLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            style="@style/style_text"
+            android:text="三国英雄人物大全" />
+
+        <TextView
+            style="@style/style_text"
+            android:text="曹操" />
+        <TextView
+            style="@style/style_text"
+            android:text="刘备" />
+
+        <TextView
+            style="@style/style_text"
+            android:text="孙权" />
+
+        <TextView
+            style="@style/style_text"
+            android:text="赵子龙" />
+
+        <TextView
+            style="@style/style_text"
+            android:text="典卫" />
+
+        <TextView
+            style="@style/style_text"
+            android:text="郭嘉" />
+
+        <TextView
+            style="@style/style_text"
+            android:text="贾诩" />
+
+        <TextView
+            style="@style/style_text"
+            android:text="荀彧" />
+        <TextView
+            style="@style/style_text"
+            android:text="程昱" />
+        <TextView
+            style="@style/style_text"
+            android:text="刘晔" />
+
+
+    </com.moonsky.customflowlayout.FlowLayout>
+</LinearLayout>
